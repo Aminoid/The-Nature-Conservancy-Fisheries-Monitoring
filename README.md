@@ -21,7 +21,7 @@ Setup.sh script provides code for getting most required packages set up on an AR
 	python lgb.py
 
 ## Details
-![Image](https://github.ncsu.edu/achoudh3/The-Nature-Conservancy-Fisheries-Monitoring/blob/master/Model.png)
+![Image](https://github.com/Aminoid/The-Nature-Conservancy-Fisheries-Monitoring/blob/master/Model.png)
 
 We use a Keras InceptionV3 model with weights trained on Imagenet.
 On top, we add the following layers to generate a 8-class probability vector corresponding to 8 classes in our dataset.
